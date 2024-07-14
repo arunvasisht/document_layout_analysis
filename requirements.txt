@@ -1,5 +1,5 @@
 layoutparser
-pytorch
+torch
 torchvision
 Pillow==9.5.0
 streamlit
