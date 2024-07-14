@@ -3,4 +3,4 @@ pytorch
 torchvision
 Pillow==9.5.0
 streamlit
-python3-tk
+tk
