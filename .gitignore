@@ -1,0 +1,10 @@
+/.vscode
+/bin
+/dla
+/images
+/include
+/lib
+/lib64
+/venv_dla
+doc_layout.py
+pyvenv.cfg
