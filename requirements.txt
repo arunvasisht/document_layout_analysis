@@ -1,5 +1,5 @@
 layoutparser
-torch
+pytorch
 torchvision
 git+https://github.com/facebookresearch/detectron2.git
 Pillow==9.5.0
